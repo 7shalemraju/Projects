@@ -7,9 +7,11 @@
 # 3. Digits Recognition Neural Network
 ![App Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvZhtG04y5_vb6sviA7IoqUYthZKMlAoVHug&usqp=CAU)
 
+# 4. Object Detection
+![App Screenshot](https://www.researchgate.net/profile/Kedar-Potdar-2/publication/329217107/figure/fig4/AS:697578261852162@1543327026650/Object-detection-in-a-dense-scene.ppm)
 
 
-This repository contains the Projects of Face Recognition of Sport Celebreties, Real Estate Price Prediction and Digits Recognition Neural Network
+This repository contains the Projects of Face Recognition of Sport Celebreties, Real Estate Price Prediction, Digits Recognition Neural Network and Face with eye detection and object detection
 ## API Reference
 
 
